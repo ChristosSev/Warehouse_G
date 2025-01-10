@@ -1,8 +1,8 @@
-/Introduction/ <br />
+# Intro
 The warehouse environment presented can be used for traversability estimation/anomaly detection experiments while executing the agent is executing an inspection task. It offers many capabilities for increasing its complexity. For instance, objects of different color might exhibit different physical properties and thus traversability estimation should rely on successful detection.
 
 
-/Demo execution/  <br />
+# Demo execution
 Install ROS1, http://wiki.ros.org/noetic/Installation<br />
 Install Unity, https://unity3d.com/get-unity/download <br />
 Download Unity Hub https://unity3d.com/get-unity/download<br />
